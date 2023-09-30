@@ -9,7 +9,7 @@
 
 [**Intelligent Robotic Arm Development on Raspberry Pi 4**](materials/robotic-arm.pdf)
 
-## Digital Systems Design
+## RTL Design
 
 [**Dual Core Machine Learning Accelerator for Attention Mechanism**](materials/ml-accelerator.pdf)
 
