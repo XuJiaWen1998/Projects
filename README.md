@@ -8,6 +8,7 @@
 
 [**Near-Intersection Vehicle Trajectory Prediction**](materials/trajectory-prediction.pdf)
 
+[**Classification of Radio Modulation with Machine Learning**](materials/Classification-of-Radio-Modulation-with-Machine.pdf)
 
 ## Computer Networks
 
@@ -22,5 +23,3 @@
 ## Computer Architecture
 
 [**Tournament Branch Predictor and Victim Cache for MIPS Processor**](materials/computer-architecture.pdf)
-
-[**Classification of Radio Modulation with Machine Learning**](materials/Classification-of-Radio-Modulation-with-Machine.pdf)
