@@ -17,6 +17,8 @@
 
 [**Tournament Branch Predictor and Victim Cache for MIPS Processor**](materials/computer-architecture.pdf)
 
+[**Gshare, Tournament, Perceptron Branch Predictors**](materials/Gshare-Tournament-Perceptron-Branch-Predictors.pdf)
+
 ## Machine Learning and Computer Vision
 
 [**Smart Home with Computer Vision Object Detection**](materials/Smart-Home-with-Computer-Vision-Object-Detection.pdf)
